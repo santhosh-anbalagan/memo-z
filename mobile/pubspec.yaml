@@ -1,0 +1,15 @@
+name: memo_z_mobile
+description: Material 3 design preview for the Memo Z mobile journal.
+publish_to: none
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: ">=3.35.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

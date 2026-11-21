@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+web/dist/
+.env
+.dart_tool/
+.flutter-plugins*
+build/
